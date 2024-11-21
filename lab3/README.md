@@ -71,4 +71,4 @@
 2. Установите зависимости, если необходимо (например, tkinter).
 3. Запустите файл командой:  
    ```bash
-   python application.py
+   python test.py
