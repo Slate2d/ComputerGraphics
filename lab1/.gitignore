@@ -1,2 +1,5 @@
 # Игнорируем папку .idea
 .idea/
+kg/
+.venv/
+kg.spec
