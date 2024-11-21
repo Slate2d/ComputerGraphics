@@ -3,7 +3,7 @@ from tkinter import colorchooser
 from tkinter import ttk
 import colorsys
 
-updating = False  # Флаг для предотвращения зацикливания
+updating = False
 
 
 def update_from_rgb():
