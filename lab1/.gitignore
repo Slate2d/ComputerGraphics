@@ -1,5 +1,5 @@
 # Игнорируем папку .idea
-.idea/
-kg/
-.venv/
-kg.spec
+lab1/.idea/
+lab1/kg/
+lab1/.venv/
+lab1/kg.spec
